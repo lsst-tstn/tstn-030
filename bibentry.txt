@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{TSTN-030,
+   author = { Tiago Ribeiro },
+    title = {Kafka schemas and schema evolution},
+     year = 2022,
+    month = Jan,
+   handle = {TSTN-030},
+      url = {https://tstn-030.lsst.io } }
